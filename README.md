@@ -16,7 +16,7 @@ A personal diamond is an upgradeable diamond that is owned and controlled by an 
 
 Only the owner of a personal diamond can upgrade their diamond, or give signed approval to do so.
 
-Because diamonds can be unlimited in size it is possible to add/replace/remove any amount of functionality to them via facets.
+Because diamonds can be unlimited in size it is possible to add/replace/remove any amount of functionality from them via facets.
 
 A new contract storage technique called [Diamond Storage](https://medium.com/1milliondevs/new-storage-layout-for-proxy-contracts-and-diamonds-98d01d0eadb) makes it possible for facets to be independent from each other. 
 
