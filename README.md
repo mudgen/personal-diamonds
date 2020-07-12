@@ -2,7 +2,7 @@
 
 ### What is a Diamond?
 
-First let's define what a diamond is: A diamond is a contract that implements the Diamond Standard.
+A diamond is a contract that implements the Diamond Standard.
 
 Information about diamonds and the Diamond Standard:
 
