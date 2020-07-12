@@ -1,4 +1,4 @@
-# Personal Diamond Project
+# Personal Diamonds Project
 
 ### What is a Diamond?
 
