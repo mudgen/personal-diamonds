@@ -46,7 +46,7 @@ The Personal Diamond project will be implemented on the Ethereum network and oth
 
 It is possible for projects outside the Personal Diamond project to also create facets and user interfaces for personal diamonds.
 
-People can also join the Personal Diamond project to create new facets and user interfaces for it.
+People can also join the Personal Diamond project to create new facets and user interfaces.
 
 
 
