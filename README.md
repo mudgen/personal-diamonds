@@ -28,7 +28,7 @@ And it means that facets can be deployed once and be used by any number of diffe
 
 A personal diamond is a smart contract so it can integrate with other contracts on the network.
 
-So for example a user could use a personal diamond to store Ether or tokens or integrate with a savings contract or other DeFi contract. A personal diamond can do anything that contracts can do.
+So for example a user could use a personal diamond to store Ether or tokens or integrate with a savings contract or other DeFi contracts. A personal diamond can do anything that contracts can do.
 
 The purpose of a personal diamond is to give users contract functionality they want and give them user interfaces to take actions they want to take.
 
