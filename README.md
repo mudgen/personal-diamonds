@@ -1,10 +1,10 @@
-# Personal Diamond
+# Personal Diamond Project
 
 ### What is a Diamond?
 
 First let's define what a diamond is: A diamond is a contract that implements the Diamond Standard.
 
-Information about diamonds and the Diamond Standard is here:
+Information about diamonds and the Diamond Standard:
 
 * [ERC2535 Diamond Standard](https://github.com/ethereum/EIPs/issues/2535)
 * [Understanding Diamonds on Ethereum](https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb)
