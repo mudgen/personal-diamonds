@@ -2,11 +2,11 @@
 
 ### What is a Diamond?
 
-A diamond is a contract that implements the Diamond Standard.
+A diamond is a contract that implements EIP-2535 Diamond Standard.
 
-Information about diamonds and the Diamond Standard:
+Information about diamonds and the EIP-2535 Diamond Standard:
 
-* [ERC2535 Diamond Standard](https://github.com/ethereum/EIPs/issues/2535)
+* [EIP-2535 Diamond Standard](https://github.com/ethereum/EIPs/issues/2535)
 * [Understanding Diamonds on Ethereum](https://dev.to/mudgen/understanding-diamonds-on-ethereum-1fb)
 * [Ethereum's Maximum Contract Size Limit is Solved with the Diamond Standard](https://dev.to/mudgen/ethereum-s-maximum-contract-size-limit-is-solved-with-the-diamond-standard-2189)
 
